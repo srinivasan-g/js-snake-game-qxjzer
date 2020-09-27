@@ -55,7 +55,6 @@ function update() {
 
 // function snake hoisting conspect
 
-
 setInterval(() => {
   update();
   show();
