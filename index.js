@@ -58,5 +58,5 @@ function update() {
 setInterval(() => {
   update();
   show();
-}, 10);
+}, 500);
 
